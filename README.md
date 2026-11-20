@@ -7,3 +7,6 @@ I'm learning to build useful products and turn ideas into real businesses. And r
 - CS50 completion by 7 September ❌
 - 5 hackatons by end october
 - 5 additional random projects by end octorber, mix and mash apis
+
+
+https://new-portfolio-zeta-livid.vercel.app. 
