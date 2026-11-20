@@ -8,5 +8,5 @@ I'm learning to build useful products and turn ideas into real businesses. And r
 - 5 hackatons by end october
 - 5 additional random projects by end octorber, mix and mash apis
 
-
+Update - Nov 2026
 https://new-portfolio-zeta-livid.vercel.app. 
